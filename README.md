@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkansal4321&show_icons=true&locale=en&layout=compact" alt="shubhamkansal4321" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkansal4321&show_icons=true&locale=en" alt="shubhamkansal4321" /></p>
+
+![snake gif](https://github.com/shubhamkansal4321/shubhamkansal4321/blob/output/github-contribution-grid-snake.gif)
